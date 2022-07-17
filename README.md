@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbauer1
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Front-End languages.
+- 🌱 I’m currently learning Front and Back-End languages.
 - 💞️ I’m looking to collaborate on any project I am able to contribute to, as well as help others to learn to code :)
 - 📫 How to reach me ... @bbauer1
 
